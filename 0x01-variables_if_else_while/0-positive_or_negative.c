@@ -5,10 +5,8 @@
 
 /* betty style doc for function main goes there */
 /**
- * main function 
- * return positive if n > 0
- * negative if n < 0
- *is zero if n == 0
+ * main  positive if n > 0 negative if n < 0 is zero if n == 0
+ * return 0
  */
 int main(void)
 {
