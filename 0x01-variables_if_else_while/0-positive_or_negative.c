@@ -7,7 +7,7 @@
 /**
  *main  positive if n > 0 negative if n < 0 is zero if n == 0
  *
- *Return: 0 for success
+ *Return:0 if execution success
  */
 int main(void)
 {
