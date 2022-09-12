@@ -5,9 +5,9 @@
 
 /* betty style doc for function main goes there */
 /**
- * main  positive if n > 0 negative if n < 0 is zero if n == 0
+ *main  positive if n > 0 negative if n < 0 is zero if n == 0
  *
- * Return: 0
+ *Return: 0 for success
  */
 int main(void)
 {
